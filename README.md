@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&customColorList=2&text=Hello%20World!&animation=twinkling)
 
-yujin'Github stats
+## yujin'Github stats
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingy0ujin&show_icons=true&theme=radical)
 <!--
 **kingy0ujin/kingy0ujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
