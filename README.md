@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&customColorList=2&text=Hello%20World!&animation=twinkling)
 
 🌱
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
