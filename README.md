@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="file:///C:/Users/yujin/Downloads/python%20(1).svg/python-3776AB?style= flat-square&logo=appveyor&logoColor=3776AB"/></a>
+<a href=""file:///C:/Users/yujin/Downloads/python%20(1).svg" target="_blank"><img src="file:///C:/Users/yujin/Downloads/python%20(1).svg/python-3776AB?style= flat-square&logo=appveyor&logoColor=3776AB"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingy0ujin&show_icons=true&theme=radical)
 <!--
 **kingy0ujin/kingy0ujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
