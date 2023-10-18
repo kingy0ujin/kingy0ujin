@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&customColorList=2&text=Hello%20World!&animation=twinkling)
-
+ <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/instsgram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 ## yujin'Github stats
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingy0ujin&show_icons=true&theme=radical)
 <!--
