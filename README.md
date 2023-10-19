@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=d09aff&height=150&section=header&text=Hello,%20World!&fontSize=50&fontColor=ff9933&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=d09aff&height=150&section=header&text=Hello,%20World!&fontSize=50&fontColor=000000&animation=fadeIn" />
 <p>Hello! Welcome to my Github</p>
 <div align="center">
  
