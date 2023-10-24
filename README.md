@@ -19,13 +19,14 @@
  <a href="https://open.kakao.com/o/s7hVaoNf" target="_blank"><img src="https://img.shields.io/badge/KAKAOTALK-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
  <a href="https://www.instagram.com/ky._.jjj" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingy0ujin&show_icons=true&theme=transparent"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingy0ujin&layout=compact">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kingy0ujin&show_icons=true&theme=buefy"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingy0ujin&layout=compact&theme=buefy">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingy0ujin&count_bg=%23C99FDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
+</div>
 <img src="https://capsule-render.vercel.app/api?&section=footer&type=waving&color=0:c8a2c8,100:9966cc&height=150" />
 
 
