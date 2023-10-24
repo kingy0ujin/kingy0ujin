@@ -1,7 +1,5 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?&section=header&type=waving&color=0:c8a2c8,100:9966cc&height=150&text=Hello,%20World!&fontSize=50&fontColor=000000&animation=twinkling" />
 
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=d09aff&height=150&section=header&text=Hello,%20World!&fontSize=50&fontColor=000000&animation=fadeIn" />
-<p>Hello! Welcome to my Github</p>
 <div align="center">
  
 ## 🌱
@@ -28,7 +26,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingy0ujin&count_bg=%23C99FDB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 
-
+<img src="https://capsule-render.vercel.app/api?&section=footer&type=waving&color=0:c8a2c8,100:9966cc&height=150" />
 
 
 <!--
